@@ -1,0 +1,2 @@
+# SomeOperationsOverArrays
+1- Given an array of numbers, sort ascending odd numbers but leave even numbers in their original place in the array.  Zero does not need to move. If the array is empty, return an empty array. 2- Given a word, return the middle character or characters of the word.  If the word is odd in length, return a string of the middle character.  If the word is even, return a string of the middle two characters. If the string is empty, return an empty string.
